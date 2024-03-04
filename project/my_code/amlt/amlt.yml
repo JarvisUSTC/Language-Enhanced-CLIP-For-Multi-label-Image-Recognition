@@ -1,0 +1,61 @@
+environment:
+  image: sleepope-basic:torch1.10.0-cu113
+  registry: ocrfrontend.azurecr.io
+  username: ocrfrontend
+target:
+  service: sing
+  # name: itplabrr1cl1
+  # name: msroctovc
+  # name: msrresrchvc
+  name: vsn-sing-ocr-res-sc
+  # name: vsn-sing-ocr-res-wu2
+  workspace_name: vision-sing-ocr-res-ws01-scus
+
+  # service: amlk8s
+  # name: v100-32gb-wus2
+  # vc: vision-itp-ocr-res
+  # workspace_name: msroctows
+  # workspace_name: vision-sing-ocr-res-ws01-westus2
+  # workspace_name: vision-sing-ocr-res-ws01-scus
+
+search:
+  job_template:
+    name: "MLC-TRAIN-{config}-{dataset}-CSC{csc}"
+    sku: 1xG8-V100
+    # sla_tier: standard
+    process_count_per_node: 1
+    command:
+    - echo "=====>>>>> start <<<<<====="
+    - sudo apt -y --fix-broken install && sudo apt-get update && sudo apt-get install -y --no-install-recommends zip unzip
+    - export GLOO_SOCKET_IFNAME=eth0
+    - bash run.sh {dataset} {config} end 16 {csc} pazhou_chatglm_valid
+  type: grid
+  max_trials: 1
+  params:
+  - name: dataset
+    spec: discrete
+    values:
+    - "pazhou_distill_chatglm_multi_label_mix"
+  - name: config
+    spec: discrete
+    values:
+    - "rn50-1k-ChatGLM_multi_labels_mix_lmpt_clip"
+  - name: csc
+    spec: discrete
+    values:
+    - "True"
+
+code:
+  local_dir: /home/t-jiaweiwang/Project/visual_prompt_tuning/competition/
+
+description: Multi-label-Classfication
+
+storage:
+
+  output:
+    container_name: msra-backup
+    mount_dir: /blob
+    mount_options:
+    - -o
+    - attr_timeout=240
+    storage_account_name: ocrmodeling

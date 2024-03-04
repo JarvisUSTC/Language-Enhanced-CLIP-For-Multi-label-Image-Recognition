@@ -1,0 +1,60 @@
+DATALOADER:
+  TRAIN_X:
+    BATCH_SIZE: 1024 #512
+  TEST:
+    BATCH_SIZE: 256
+  NUM_WORKERS: 8
+
+INPUT:
+  SIZE: (224, 224)
+  INTERPOLATION: "bicubic"
+  PIXEL_MEAN: [0.48145466, 0.4578275, 0.40821073]
+  PIXEL_STD: [0.26862954, 0.26130258, 0.27577711]
+  TRANSFORMS: ["random_resized_crop", "random_flip", "normalize"]
+  TRANSFORMS_TEST: ["resize", "center_crop", "normalize"]
+  random_resized_crop_scale: (0.6, 1.0)
+
+OPTIM:
+  NAME: "sgd"
+  # LR: 1e-4 # 0.0004
+  # MAX_EPOCH: 15
+  # LR_SCHEDULER: "cosine"
+  # WARMUP_EPOCH: 10
+  # WARMUP_TYPE: "constant"
+  # WARMUP_CONS_LR: 1e-5
+
+  LR: 1e-5 # 0.0004
+  MAX_EPOCH: 5
+  LR_SCHEDULER: "cosine"
+  WARMUP_EPOCH: -1
+
+TRAIN:
+  CHECKPOINT_FREQ: 1
+  PRINT_FREQ: 5
+  IF_LEARN_SCALE: False
+  IF_LEARN_spatial_SCALE: False
+  spatial_SCALE_text: 50
+  spatial_SCALE_image: 50
+  # LOSSFUNC: "ranking_with_cooccurrence"
+  LOSSFUNC: "double_ranking"
+
+  IF_ablation: False
+  Caption_num: 0
+
+  Caption_name: ChatGLM_multi_labels_filtered
+  add_n2: False
+
+TRAINER:
+  Caption:
+    M_CTX: 2
+    N_CTX: 16
+    use_evidence: True
+
+TEST:
+  EVALUATOR: "MLClassification"
+  EVALUATOR_ACT: "default_merge_aux"
+  use_freq: True
+
+MODEL:
+  BACKBONE:
+    NAME: "RN50"

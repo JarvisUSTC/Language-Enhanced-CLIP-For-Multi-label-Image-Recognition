@@ -1,0 +1,22 @@
+{
+    "toaster": ["bread", "butter", "jam", "plate", "kitchen_counter"],
+    "parking meter": ["sidewalk", "car", "street", "parking_sign", "bicycle"],
+    "hair drier": ["bathroom", "towel", "comb", "mirror", "shampoo"],
+    "remote": ["sofa", "tv_stand", "coffee_table", "couch", "television"],
+    "handbag": ["wallet", "keys", "sunglasses", "umbrella", "lipstick"],
+    "scissors": ["tape", "glue", "ruler", "pencil", "paper"],
+    "potted plant": ["window", "curtain", "floor", "carpet", "shelf"],
+    "backpack": ["school_supplies", "notebook", "pen", "lunchbox", "water_bottle"],
+    "refrigerator": ["pantry", "microwave", "kitchen_counter", "sink", "cabinet"],
+    "chair": ["floor_lamp", "table", "carpet", "picture_frame", "wall"],
+    "mouse": ["computer_monitor", "keyboard", "desk", "printer", "laptop"],
+    "bench": ["lamppost", "tree", "park", "path", "fountain"],
+    "book": ["reading_glasses", "bookmark", "pen", "magazine", "bookcase"],
+    "spoon": ["napkin", "fork", "knife", "plate", "tablecloth"],
+    "knife": ["food", "cutting_board", "plate", "utensils", "spatula"],
+    "cell phone": ["charger", "headphones", "phone_case", "screen_protector", "power_bank"],
+    "bowl": ["tablecloth", "spoon", "fork", "napkin", "tray"],
+    "apple": ["basket", "fruit_bowl", "banana", "orange", "grapes"],
+    "cup": ["coaster", "teapot", "saucer", "sugar_bowl", "stirring_stick"],
+    "vase": ["table", "picture_frame", "candle", "decorative_bowl", "mantle"]
+}    

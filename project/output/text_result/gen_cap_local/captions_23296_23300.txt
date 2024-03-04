@@ -1,0 +1,90 @@
+[0] ('car', 'toilet', 'truck')
+Sure, here are 5 different images that describe a scene with a car, toilet, and truck together:
+
+1. A parking lot with a car, a truck, and a toilet.
+2. A home with a car, a toilet, and a truck in the garage.
+3. A street scene with a car, a truck, and a  convenience store.
+4. A cityscape with a car, a truck, and a skyscraper.
+5. A commercial with a car, a truck, and a restaurant.
+1. A garage with a car, pickup truck, and toilet.
+2. A car drive through a fast food restaurant, with a restaurant server holding a sign.
+3. A bedroom with a car, bed, and dresser.
+4. A parking lot with a car, toilet, and truck.
+5. A truck and car at a葬场， with the car driving away.
+1. A parking lot with a car, a toilet, and a truck.
+2. A bedroom with a car, a bed, and a toilet.
+3. A bathroom with a car, a shower, and a truck.
+4. A kitchen with a car, a refrigerator, and a sink.
+5. A truck stops with a car, a toilet, and a bathroom.
+1. A parking lot with a car, a toilet, and a truck.
+2. A bedroom with a car, a bed, and a truck.
+3. A bathroom with a car, a toilet, and a shower truck.
+4. An office space with a car, a desk, and a truck.
+5. A garage with a car, a truck, and a carport.
+[1] ('chair', 'cup', 'dining table', 'fork', 'oven', 'person')
+1. A cozy living room with a chairs and a table, where a person is sitting with a cup of tea and holding a fork.
+2. An elegant餐厅， where a person is sitting at a dining table with a cup of coffee and using a fork to eat a sandwich.
+3. A kitchen with a microwave, refrigerator, and sink, where a person is making a salad with a cup of wine and holding a fork to pick the vegetables.
+4. An outdoor salad bar, where a person is picking greens with a fork and a cup of wine, and a server is bringing them a menu.
+5. A卧室， where a person is lying on a bed with a cup of coffee and holding a fork to eat a croissant.
+1. A cozy living room with a comfortable chair, a coffee cup on the table, a dining table with many dishes, a fork in one hand, an oven oven, and a person sitting on the couch watching TV.
+2. A kitchen scene with a chair, a cup, a dining table, a fork, an oven, and a person wearing a restaurant uniform sitting at a table setting for a dinner party.
+3. A bedroom with a chair, a cup, a dining table, a fork, an oven, and a person in a bedtime outfit sitting on the bed.
+4. A laboratory with a chair, a cup, a dining table, a fork, an oven, and a person holding a cup of coffee standing by a scientific仪器.
+5. An outdoor scene with a chair, a cup, a dining table, a fork, an oven, and a person sitting on a chair surrounded by a field of trees and flowers.
+Sure, I can help you generate 5 simple sentences that describe different images of a kitchen scene with a microwave, refrigerator, sink, chair, cup, and fork. Here are the sentences:
+
+1. A cozy kitchen with a inviting dining table and a microwave.
+2. An elegant kitchen with a traditional dining table and a refrigerator.
+3. A busy kitchen with a sink, oven, and fork, preparing for dinner.
+4. A playful kitchen with a coffee table and a fork, surrounded by colorful chairs and flowers.
+5. A cluttered kitchen with a sink, oven, microwave, and chair, filled with clutter and chaos.
+1. "A cozy dinner table set for a special occasion with a chair, cup of tea in one hand, and a fork in the other as the person sits down."
+2. "A beautiful dining room with a comfortable chair, a delicious cup of coffee, a fork on a dinner plate, and a beautiful clock above the table."
+3. "A cluttered kitchen with a chair, a sink, a microwave, a refrigerator, a stove, and a plate filled with food."
+4. "A peaceful garden with a chair, a table, a cup of tea, a fork, a plant, and a starry sky."
+5. "A busy office scene with a chair, a computer monitor, a desk, a pen, a pencil, and a cup of coffee."
+[2] ('book', 'bottle', 'bowl', 'chair', 'couch', 'dining table', 'potted plant', 'tv')
+1. A cozy living room with a comfortable couch, a potted plant, and a beautiful TV set on the wall.
+2. An elegant dining table with a bowl and a book on it.
+3. A small kitchen with a refrigerator, a sink, and a book on the counter.
+4. An outdoor scene with a chair and a bowl on a sunny day, surrounded by plants and trees.
+5. A studio with a chair, a couch, a bowl, a bottle, and a TV set in a modern living room setting.
+1. A cozy library with a comfortable chair and couch, a large potted plant in the corner, and a TV on the wall.
+2. A living room with a comfortable chair, a bowl, a couch, a dining table, a potted plant, and a TV.
+3. A restaurant scene with a table for 6, a bowl of appetizers, a bottle of wine, a chair, a couch, and a TV.
+4. A beach scene with a chair, a couch, a bowl of popcorn, a bottle of soda, a potted plant, and a TV.
+5. A cozy home office with a chair, a couch, a bowl of coffee, a bottle of brandy, a potted plant, and a TV.
+1. A cozy living room with a comfortable couch, a potted plant, and a small bowl on the dining table, surrounded by books.
+2. An empty restaurant table with a chair and a bowl on it, surrounded by a potted plant and a TV.
+3. A living room with a bowl, a chair, a couch, a dining table, and a potted plant, surrounded by books and a TV.
+4. A beach umbrella under the sun, with a bottle and a bowl on the side, surrounded by a chair and a couch.
+5. A bedroom with a book, a bowl, a chair, a couch, and a dining table, surrounded by a potted plant and a TV.
+1. A living room with a comfortable couch and a dining table set with a bowl and a potted plant, surrounded by a bookshelf and a TV.
+2. A kitchen with a refrigerator, microwave, sink, and a chair, where a bottle is prominently displayed on a shelf.
+3. A library with a bookshelf filled with books, a bowl for food, a chair for reading, and a dining table with TVs on both ends.
+4. A park with a bench, a bowl of water, a potted plant, and a TV set in a tree shade.
+5. A home office with a desk, chair, and a TV set in a quiet room with no other furniture.
+[3] ('bottle', 'bowl', 'chair', 'clock', 'cup', 'dining table', 'sink', 'spoon')
+1. A small apartment with a desk and a chair, a window with a view of the city, a bottle of wine on the desk, a bowl of pasta on the kitchen counter, a clock on the wall, a cup of coffee in the refrigerator, a dining table with a set of dishes and a spoon on it.
+2. A cozy bedroom with a bed and a nightstand, a bottle of whiskey on the nightstand, a bowl of berries in the window, a clock on the wall, a cup of tea in the refrigerator, a dining table with a set of chairs and a bowl of soup on it.
+3. An outdoor kitchen with a grill and a sink, a bottle of BBQ sauce on the counter, a bowl of cheese and crackers on the floor, a chair by the grill, a clock on the wall, a cup of coffee in the refrigerator, a dining table with a set of chairs and a spoon on it.
+4. A professional office space with a desk and a chair, a window with a view of the park, a bottle of water on the desk, a bowl of fruit in the window, a clock on the wall, a cup of coffee in the refrigerator, a dining table with a set of dishes and a bowl of sushi on it.
+5. A cozy living room with a couch and a chair, a window with a view of the forest, a bottle of wine on the couch, a bowl of popcorn in the window, a clock on the wall, a cup of tea in the refrigerator, a dining table with a set of chairs and a spoon on it.
+Sure, here are five simple sentences that describe five different images where bottle, bowl, chair, clock, cup, dining table, sink and spoon must appear together:
+
+1. A cozy bedroom with a comfortable chair, a clock, a cup of tea, a bowl of flowers, a dining table, and a spoon in the sink.
+2. A bustling street scene with a bottle of wine in a glass bowl, a coffee cup on a table, a clock tower nearby, a chair, a street vendor's tiki torch, and a spoon in the sink.
+3. An outdoor living room with a chair, a clock, a cup of coffee, a bowl of cookies, a dining table, a grill, a spoon, and a beach ball in the sink.
+4. A peaceful garden with a bowl of soup, a cup of coffee, a chair, a clock, a bench, a spoon, and a gnome in the sink.
+5. A library with a book in a glass bowl, a cup of coffee in a chair, a clock, a desk, a laptop, a spoon, and a tray in the sink.
+1. A small kitchen with a sink, refrigerator, and a table with a chair and a bottle and a cup.
+2. A cozy living room with a clock, a chair, a bowl, a cup, a dining table, a spoon, and a television.
+3. An outdoor coffee shop with a chair, a bowl, a cup, a clock, a sink, a spoon, and a menu.
+4. A peaceful garden with a chair, a bowl, a cup, a clock, a sink, and a spoon, surrounded by flowers.
+5. An expensive餐厅 with a chair, a bowl, a cup, a clock, a sink, and a spoon, serving hot and delicious meals.
+1. A peaceful library with a vintage bookshelf, chairs, and a large clock on the wall.
+2. A cozy living room with a comfortable chair, a bowl of soup on the table, and a cup of coffee at the window.
+3. A bedroom with a chair, a clock, a nightstand, a bowl of clothing, and a spoon on the nightstand.
+4. A stylish coffee shop with a big bowl of cereal on the counter, a coffee machine, a clock, and a cup of coffee.
+5. A kitchen with a dining table, a bottle of wine, a bowl of broccoli, a cup of tea, a spoon, and a microwave.

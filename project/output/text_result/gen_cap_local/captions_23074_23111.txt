@@ -1,0 +1,817 @@
+[0] ('chair', 'couch', 'toilet', 'vase')
+1. A living room with a comfortable couch and a vase filled with flowers on the windowsill.
+2. A bedroom with a chair and a vase filled with flowers for the birthday girl.
+3. A kitchen with a vase of flowers on the counter, a refrigerator, and a sink.
+4. An outdoor sitting area with a chair, a couch, a tree and a vase of flowers.
+5. A workshop with a chair, a couch, a toilet and a vase of cutting tools.
+Sure, here are five possible descriptions of images that contain chair, couch, toilet, and vase:
+
+1. A cozy living room with a comfortable couch and a vase filled with fresh flowers on the coffee table.
+2. A bedroom with a couch and chair for a cozy night's sleep, and a toilet for morning use.
+3. An office space with a chair, couch, and vase on the counter for storing paperwork.
+4. A bathroom with a chair, couch, and toilet for a relaxing soak in the tub or a shower.
+5. A backyard with a chair, couch, toilet, and vase for displaying outdoor furniture and flowers.
+1. A living room with a couch and a chair, a refrigerator, and a vase in the corner.
+2. A bedroom with a bed, a couch, and a vase on the table.
+3. An alley with a couch, a chair, a toilet, and a vase by the corner.
+4. A kitchen with a refrigerator, a sink, and a vase in the window.
+5. A backyard with a chair, a couch, a toilet, and a vase by the gate.
+1. A living room with a cozy couch and a beautiful vase filled with flowers, surrounded by a comfortable chair.
+2. A bedroom with a cozy chair and a toilet, a nightstand, and a bed.
+3. An office with a chair, a couch, a desk, and a vase on the wall.
+4. A kitchen with a vase, a chair, a couch, and a refrigerator.
+5. A bedroom with a vase, a chair, a couch, and a television.
+[1] ('bottle', 'couch', 'cup', 'person', 'remote', 'tv', 'wine glass')
+1. A cozy living room with a couch, a coffee table, a TV, a wine glass, and a remote.
+2. An empty bar with a bottle of wine, a电视， a keyboard, a chair, and a light source.
+3. A room with a couch, a coffee table, a TV, a remote, a lamp, and a wine glass.
+4. A kitchen with a refrigerator, a sink, a couch, a cup of coffee, and a bottle of wine.
+5. A park with a tree, a bench, a lake, a bottle of water, and a足球.
+1. A living room with a couch, a coffee cup, a remote, a TV, and a wine glass on a table.
+2. A bedroom with a bottle of wine, a couch, a cup of coffee, a person, and a TV on the nightstand.
+3. An outdoor summer kitchen with a bottle of beer, a couch, a cup of tea, a person, a TV, and a sun umbrella.
+4. An office with a bottle of咖啡， a couch, a cup of coffee, a person, a remote, and a computer monitor.
+5. An bathroom with a bottle of lotion, a couch, a cup of water, a person, a remote, and a showerhead.
+1. A cozy dinner table with a set of books, a wine glass, and a remote control.
+2. A living room with a couch, a television, a cup of coffee, and a book on the shelves.
+3. A bedroom with a bed, a couch, a TV, and a wine glass on the nightstand.
+4. A park with a bottle of wine, a cup of tea, a person reading a book, and a tree in the background.
+5. A kitchen with a refrigerator, a sink, a bottle of wine, a plate of snacks, and a television on the counter.
+1. A small room with a couch and a cup on the table, a remote control for the TV, and a wine glass on the wall.
+2. A person sitting on a couch, holding a cup of coffee, with a TV in the background and a remote control for the remote.
+3. A living room with a couch, a coffee table, a TV, and a wine glass on the wall.
+4. A kitchen with a refrigerator, sink, and a bottle of wine on the counter.
+5. A cozy bedroom with a couch, a bed, a TV, and a cup of tea on the wall.
+[2] ('cat', 'cup', 'suitcase')
+1. A cozy bedroom with a queen size bed, a desk, and a window seat, surrounded by a collection of cats and cups.
+2. An outdoor scene with a cat playing in a snow-covered forest, holding a cup of hot cocoa, and a suitcase on a hike.
+3. A bustling coffee shop with a cat sitting by the bar, holding a cup of coffee, and a suitcase containing a laptop and a hat.
+4. A modern office with a cat sitting at a desk, holding a cup of coffee, and a suitcase filled with papers and documents.
+5. A luxurious hotel room with a cat sleeping on a bed, holding a cup of tea, and a suitcase containing clothes and accessories.
+1. A cozy living room with a big window that looks out onto a beautiful park, a comfortable chair, and a small cat on the couch, surrounded by a cup of coffee and a suitcase on the floor.
+2. A dark and stormy cityscape, where a cat is standing next to a trash can with a cup of water and a suitcase in front of a fire extinguisher.
+3. A small hotel room with a bed, a desk, a chair, and a small cat in bed with a cup of coffee and a suitcase on the table.
+4. A kitchen with a refrigerator, oven, and microwave, where a cat is playing with a toy inside a cup and a suitcase is in the foreground.
+5. A forest with a treehouse, a bridge, and a cat playing with a ball in the middle of a forest, surrounded by a suitcase on a tree branch.
+1. A cat hiding behind a coffee mug on a table, surrounded by a suitcase and other objects.
+2. A cat sitting in front of a laptop with a cup of coffee, next to a suitcase on a shelf.
+3. A cat sitting in front of a computer screen with a cup of tea, next to a suitcase on a desk.
+4. A cat lying on a bed with a cup of tea, next to a suitcase on a nightstand.
+5. A cat lying on a couch with a cup of coffee, next to a suitcase in a room with other furniture.
+1. A cat sitting on a cup with a suitcase on the ground next to it.
+2. A cat sitting in front of a refrigerator with a cup in its mouth and a suitcase at its feet.
+3. A cat standing in front of a computer screen with a cup in its hand and a suitcase by its side.
+4. A cat lying on a suitcase in a bedroom with a cup on the bed next to it.
+5. A cat sitting on a suitcase in a parking lot with a cup in its hand and a car in the background.
+[3] ('bird', 'dining table', 'fork', 'person', 'spoon')
+1. A person holding a bird, using a fork to eat a juicy apple with a spoon on the side, in a bustling kitchen with a dining table set for a formal dinner party.
+2. A white bird sitting on a silver spoon on a black plate with a fork in its mouth, in a cozy bedroom with a bed and a dresser.
+3. A young woman holding a bird, using a fork to pick up salad greens with a spoon, in a serene garden with aMonet painting the sky.
+4. A person holding a bird, using a fork to eat a dish of cheese and wine with a spoon, in a dark and atmospheric alleyway.
+5. A white bird sitting on a red plate with a fork in its mouth, on a cozy kitchen table with a cozy oven and a refrigerator, in a bright and sunny house.
+1. A bird sitting on a dining table with a fork in its mouth and a spoon by its side.
+2. A person holding a bird in their hand and using a fork to feed it dinner.
+3. A set of dishes and utensils on a dining table with a bird in their midst.
+4. A restaurant table with a bird on it, complete with a fork, spoon and a hostess club.
+5. A peaceful garden scene with a bird on a table, a fork in its mouth and a spoon in its hand.
+1. A bird sits on a dining table, its beak open, with a fork in its foot.
+2. A person uses a spoon to feed a bird on a dining table, surrounded by dishes.
+3. A bowl of food is on a dining table, with a fork in a person's hand and a spoon in their mouth.
+4. A bird is on a dining table, with a fork in its beak and a spoon in its mouth.
+5. A person carries a bird on their hand while dining, with a fork and a spoon in their fingers.
+Sure! Here are five simple sentences that describe different images containing a bird, dining table, fork, spoon, and a person:
+
+1. A bird sitting on a dining table with a fork in its mouth, surrounded by utensils and food on the table.
+2. A person holding a spoon, using a fork to pick up food on a dining table, with a bird watching them from a distance.
+3. A dining table with multiple tables set up for different groups of people, with a fork in each person's hand, and a bird watching from a distance.
+4. A bird sitting on a dining table, with a fork in its mouth, surrounded by food and a  spoon held by a person.
+5. A dining table with a large pizza on it, with a person using a fork to eat the pizza, and a bird watching from a nearby window.
+[4] ('bowl', 'person', 'toilet')
+1. A bathroom with a toilet, sink, and bowl.
+2. A living room with a bowl and a person.
+3. A bedroom with a bowl and a bed.
+4. A kitchen with a bowl, sink, and refrigerator.
+5. An outdoor bonfire with a bowl, a person, and a campfire.
+1. A toilet and bowl sitting in front of a person in a bathroom.
+2. A bowl with a person sitting on it in a toilet bowl.
+3. A person standing next to a toilet with a bowl in their hand.
+4. A toilet and bowl in a camping area with a person using the toilet.
+5. A bowl and toilet in a home with a person performing a  toilet training session.
+1. A bathroom with a toilet, sink, and bowl, all in one place.
+2. A bedroom with a bowl, bed, and nightstand.
+3. A living room with a bowl, couch, TV, and coffee maker.
+4. An office with a bowl, desk, computer, and chair.
+5. A outdoor bathroom with a bowl, shower, and toilet, surrounded by trees.
+1. A bathroom with a toilet, bowl, and sink, where a person is likely to use the toilet.
+2. A living room with a toilet, bowl, and sink, where a person might be sitting in front of the sink while using the toilet.
+3. A kitchen with a toilet, bowl, and sink, where a person might be preparing food or cleaning up before using the toilet.
+4. An outdoor bathroom with a toilet, bowl, and sink, where a person might use the bathroom while enjoying the outdoors.
+5. An alleyway with a toilet, bowl, and sink, where a person might use the bathroom while going about their day.
+[5] ('chair', 'cup', 'fork', 'knife', 'person', 'pizza')
+1. A family sitting at a table with a cup of coffee, a fork, a knife, a pizza, and a map of the world on their laptop.
+2. A young woman eating a pizza by the pool, holding a fork and a cup of tea.
+3. A man and woman sitting in a cozy living room, a fork, a knife, a pizza, and a bottle of wine on the table.
+4. A young woman holding a fork and a knife, standing on a mountaintop, looking out at the horizon with a pizza in her hand.
+5. A family sitting at a restaurant, a cup of coffee, a fork, a knife, a pizza, and a book of chess moves.
+1. A cozy living room with a comfortable chair, a cup of coffee in hand, a  slice of pizza on the counter, a bookshelf filled with books and a TV on.
+2. A dimly lit kitchen with a chair in the center, a large plate with a slice of pizza on it, a knife and fork on the counter, and a stove and refrigerator visible.
+3. An outdoor picnic area with a chair, a stack of sandwiches on a table, a cup of lemonade, a fork, and a knife, surrounded by trees and a clear blue sky.
+4. An office with a chair, a desk, a laptop on it, a coffee mug in hand, a slice of pizza on a large refrigerator, and a window looking out onto a park.
+5. A bedroom with a chair, a bed, a nightstand, a computer on the desk, a cup of tea in hand, a slice of pizza on the nightstand, and a window with a view of the city.
+1. A cozy living room with a comfortable chair, a cup of coffee or tea, a fork, a knife, a pizza, and a screen on the wall.
+2. A fast-food restaurant with a chair, a cup of tea or coffee, a fork, a knife, a slice of pizza, and a order of fries.
+3. An office space with a chair, a computer, a keyboard, a mouse, a phone, a fork, a knife, and a slice of pizza.
+4. A classroom with a chair, a book, a professor, a student, a fork, a knife, and a pizza.
+5. A bathroom with a chair, a shower, a toilet paper roll, a soap, a fork, a knife, and a slice of pizza.
+1. A chair, a cup, a fork, a knife, a person, and a pizza in a cozy kitchen surrounded by cooking utensils and appliances.
+2. A person sitting on a chair with a cup of coffee and a slice of pizza in front of them at a table in a sunlit restaurant.
+3. A group of people standing around a cutting board, holding onto fork and knife, while a pizza is being prepared in a kitchen with oven mitts.
+4. A person sitting on a chair, holding a slice of pizza, and wearing a chef's hat while they use a fork to  cut the cheese in a kitchen with a whiteboard and a whiteboard pen.
+5. A person holding a cup of wine and a slice of pizza while sitting on a cushioned chair in a historic house with a fireplace in the background.
+[6] ('bicycle', 'cake')
+1. "A colorful kitchen with a baking dish filled with a delicious-looking cake, along with a cycle stand in the corner."
+2. "A small apartment with a bicycle placed against the wall, next to a slice of birthday cake for a birthday celebration."
+3. "A park with a cycle stand and a cake for a family gathering."
+4. "A cozy bedroom with a bicycle in the room with a cake for a surprise birthday breakfast."
+5. "A outdoor ceremony with a beautiful cake and a cycle as a symbol of the couple's love."
+1. A bicycle and a cake baking in a cozy bakery, surrounded by flour and sugar.
+2. A group of bikes and a slice of cake in a park, enjoying a picnic lunch.
+3. A simple自行车和蛋糕组合在一个庭院里，享受阳光和微风。
+4. A bike and a cake in a vintage shop, surrounded by old fashioned furniture and decorations.
+5. A bike and a cake at a wedding party, with the bride and groom standing next to each other, ready for the ceremony.
+1. A small apartment kitchen with a refrigerator, sink, and a bike rack attached to a wall.
+2. A colorful outdoor bakery with a bakery truck parked near the entrance, surrounded by bicycles.
+3. A picturesque forest location with a treehouse and a group of bicycles on a sunny day.
+4. A cozy home kitchen with a table and chairs, surrounded by a variety of bikes.
+5. An indoor sports studio with a bike ride simulator and a set of cake icing ingredients for a cake recipe.
+1. A group of friends, sitting at a table, eating a cake and having a picnic on a grassy field.
+2. A family, with a child on a bicycle, in front of a delicious cake at a bakery.
+3. A couple, holding aloft a cake and a bicycle, on a tropical beach.
+4. A child playing with a bike and a cake in a cozy park.
+5. A professional delivery person, carrying a bicycle and a large cake, on a busy road.
+[7] ('baseball bat', 'frisbee', 'person')
+1. A person holding a baseball bat and a frisbee while playing ball in a backyard.
+2. A group of people using a baseball bat and frisbee to catch a ball in a park.
+3. A person using a baseball bat and frisbee to launch a shot at a ball in a park.
+4. A person with a baseball bat and a frisbee holding a game in a bedroom.
+5. A person using a baseball bat and frisbee to play a game with friends in a backyard.
+1. A person playing baseball with a frisbee in a park.
+2. A person holding a baseball bat and playing frisbee with a group of friends.
+3. A person using a baseball bat to catch a frisbee in a field.
+4. A person holding a baseball bat and frisbee in a backyard, surrounded by trees.
+5. A person playing frisbee with a beer bottle as a prop.
+1. A person holding a baseball bat and playing frisbee in a park.
+2. A person playing frisbee with a baseball bat in a neighborhood.
+3. A group of friends playing frisbee and using a baseball bat as a tool.
+4. A person practicing their baseball skills with a frisbee on a field.
+5. A person catching a frisbee and using a baseball bat to hit a ball back over the net.
+1. A person using a baseball bat to hit a frisbee while in a kitchen with a refrigerator and sink.
+2. A person holding a baseball bat and a frisbee while walking towards a tennis court.
+3. A person using a baseball bat and a frisbee to play frisbee in a field with trees and a lake.
+4. A group of friends using a baseball bat, frisbee, and other objects to play a game of frisbee in a backyard.
+5. A person using a baseball bat and a frisbee to defend themselves against a抢球者 in a school playground.
+[8] ('book', 'dining table', 'vase')
+Sure, here are five simple sentences that describe different images of a scene containing a book, dining table, and vase:
+
+1. A cozy bedroom with a sitting area, a bookshelf, and a vase on the coffee table.
+2. An elegant living room with a dining table, books, and a vase next to a fireplace.
+3. A large kitchen with a dining table, oven, microwave, refrigerator, and sink.
+4. An outdoor workshop with a dining table, a campfire, a vase, and a collection of tools.
+5. A storage unit with a dining table, a vase, and several books on the shelves.
+1. A cozy living room with a comfortable dining table, a vase filled with colorful flowers, and a large bookshelf filled with books.
+2. An elegant marble dining table surrounded by tall candlesticks, a vase of fresh flowers, and a exquisite tea set.
+3. A bustling kitchen with a wooden dining table, a sink full of dishes, and a microwave oven nearby.
+4. An outdoor picnic area with a large metal dining table, a vase of fresh flowers, and a deck of cards.
+5. A cozy bedroom with a wooden dining table, a vase of flowers, and a cozy fireplace.
+1. "A cozy and intimate dinner party in a cozy living room, with a beautiful vase filled with colorful flowers and a cozy dining table set for hosting a dinner party."
+2. "A elegant dinner party in a luxurious kitchen with a large dining table, crystal glasses, and a stunning vase filled with fresh flowers."
+3. "A family gathering in a cozy living room with a beautiful vase filled with colorful flowers and a large dining table for hosting a family dinner."
+4. "A cozy bedroom with a beautiful vase filled with colorful flowers and a small dining table for a cozy night's sleep."
+5. "A library with a beautiful vase filled with colorful flowers and a large dining table for storing books."
+1. A cozy living room with a dining table and vase filled with colorful flowers.
+2. A formal dinner party at a fancy restaurant, with a high-end dining table and a vase of fresh berries.
+3. An outdoor picnic party, with a dining table and vase of wildflowers.
+4. A bedroom with a dining table and vase of arrangement of flowers.
+5. A kitchen with a vase of fresh vegetables on a dining table, where people are preparing dinner.
+[9] ('bench', 'dog', 'person', 'tie')
+1. A person sitting on a bench, wearing a suit and tie, with a dog next to them.
+2. A bench with a person standing on it, holding a tie in their hand.
+3. A bench with a person lying down on it, their arms crossed, and a dog sitting on their stomach.
+4. A bench with a person and a dog sitting on it, both wearing ties.
+5. A street scene with a bench and a person sitting on it, surrounded by cars and people passing by.
+Sure, here are five simple sentences that describe five different images where a bench, dog, person, and tie must appear together:
+
+1. A person is sitting on a bench, wearing a tie, while a dog is behind them.
+2. A bench is located in a busy street with a person and a dog on either side.
+3. In a cozy bedroom, a person is lying on a bench with a dog by their side.
+4. A garden is filled with a bench, a狗， and a tie.
+5. In a bustling city, a person is standing on a bench with a dog by their side, next to a clock tower.
+1. A cozy living room with a comfortable bench, a cozy fireplace, a furry dog, and a tie.
+2. An elegant bedroom with a luxurious bench, a beautiful bed, a fluffy猫， and a bow tie.
+3. A casual outdoor kitchen with a stool, a refrigerator, a sink, and a tie.
+4. A cozy workspace with a desk, a bookshelf, a computer, and a dog on a stool.
+5. A bustling street scene with a bench, a car, a person with a hat, and a tie.
+Sure! Here are five sentences that describe images of a kitchen with a bench, dog, person, and tie:
+
+1. A cozy kitchen filled with a warm stove, a refrigerator, a sink, and a person wearing a apron tied around their waist with a metal tie.
+2. An average kitchen featuring a white countertop, a brown stove, a refrigerator, a sink, and a dog sitting on a bench with a yellow bow tie.
+3. A dimly lit kitchen with a counter and sink, a wooden bench, a stove, and a person wearing a chef's hat tied with a bow tie.
+4. A formal kitchen with a white countertop, a sleek refrigerator, a sink, a oak bench, and a person wearing a suit and tie tied with a red bow tie.
+5. A casual kitchen with a counter and sink, a wooden bench, a refrigerator, a dog wearing a harness and tied with a yellow bow tie.
+[10] ('bottle', 'bowl', 'cup', 'handbag', 'knife', 'oven', 'refrigerator', 'sink', 'spoon')
+Sure! Here are five simple sentences that describe images of objects, such as bottle, bowl, cup, handbag, knife, oven, refrigerator, sink, and spoon, together in a specific scene:
+
+1. A cozy living room with a comfortable couch, a TV, a fireplace, and a bottle of wine on the coffee table.
+2. A busy city street with a person carrying a handbag, a bottle of water, and a spoon, while shopping for groceries.
+3. A outdoor kitchen with a sink, a refrigerator, a bottle of olive oil, a bowl of salad dressing, and a cutting board.
+4. A laboratory with a bowl of试剂， a bottle of ink, a calculator, a pen, and a knife, creating a chemical experiment.
+5. A cozy bedroom with a bed, a laptop, a bottle of coffee, a handbag, a spoon, and a book.
+1. A cozy home kitchen with a microwave, refrigerator, sink, and a bowl for eating.
+2. An outdoor picnic area with a handbag, bottle, and spoon for sharing.
+3. A professional kitchen at an hotel with a sink, refrigerator, oven, and bottle for serving drinks.
+4. A peaceful garden with a cup, bottle, and knife for reading a book.
+5. An outdoor living room with a bowl, cup, and handbag for a snack.
+1. A workspace with a workspace, a laptop, a bottle of water, a bowl of fruits, a cup of coffee, a handbag, a spoon, and a computer mouse.
+2. A living room with a couch, a TV, a chair, a window, a bookshelf, a bowl of cereal, a handbag, a spoon, and a remote control.
+3. A kitchen with a stove, a refrigerator, a sink, a bottle of wine, a bowl of soup, a cup of tea, a knife, and a spoon.
+4. A bedroom with a bed, a dresser, a mirror, a nightstand, a handbag, a spoon, and a phone.
+5. A outdoor space with a tree, a picnic blanket, a bottle of soda, a bowl of apples, a cup of coffee, a knife, and a spoon.
+1. A cozy bedroom with a queen-sized bed, a cozy nightstand, a衣柜 with a shelf for storing clothes, and a clock on the wall.
+2. A modern bathroom with a toilet, a sink, a shower, and a mirror. There is a toiletries shelf above the sink, and a towel rack in the corner.
+3. A living room with a couch, a flat-screen TV, a bookshelf, and a coffee table. There is a window that looks out onto a park, and there is a fan in the corner.
+4. A storeroom with a shelf full of vegetables, a refrigerator, and a chest of drawers. There is a sink with a管道 and a spoon on it.
+5. An outdoor kitchen with a stove, a oven, a refrigerator, and a sink. There are several tables and chairs for cooking and eating, and a grill is located on the side of the house.
+[11] ('bed', 'book', 'bowl', 'person', 'remote')
+1. A cozy bedroom with a comfortable bed, a bookshelf, and a bowl of colorful fruits and vegetables on the nightstand. A person is lying down in the bed, reading a book, and holding a remote. The room is quiet and cozy, with just the sound of the book being read and the gentle rustling of the leaves in the bowl.
+2. An empty room with a single bed, a shelf of books, and a bowl on the floor. There is no one in the room, but it looks nice and peaceful. The remote is placed on a table nearby.
+3. A kitchen with a bed, a refrigerator, a stove, and a sink. A person is sitting on the bed, holding a book, and a remote is placed on a table near the stove. There are colorful curtains drawn to create a warm and inviting atmosphere.
+4. A living room with a bed, a couch, a television, and a bowl of cereal on the coffee table. A person is sitting on the couch, watching TV, and holding a remote. The bowl of cereal is on the floor next to the couch. The room is bright and modern, with lots of furniture and decor.
+5. An outdoor setting with a bed, a campfire, a pile of rocks, and a bowl of hot sauce on the ground. A person is sitting on the bed with a guitar, and a remote is placed on a rock nearby. The sunset is beautiful, with the stars visible in the sky. The atmosphere is fun and playful, with a sense of adventure.
+1. A cozy bedroom with a soft light, a bookcase filled with books, a bowl of ants, a remote control, and a comfortable mattress.
+2. A stylish living room with a fireplace, a double bed, a bowl of soup, a laptop, and a TV remote.
+3. An outdoor晚餐 setting with a bed, a bookshelf, a bowl of flowers, a phone, and a wireless remote.
+4. A beach-themed bathroom with a double bed, a bowl of sand, a shower mirror, a remote control, and a beach towel.
+5. A cozy kitchen with a double bed, a bowl of berries, a laptop, a TV remote, and a coffee table.
+Sure! Here are five descriptions of real-life scenes that include bed, book, bowl, person, and remote, all appearing together:
+
+1. A cozy bedtime scene, with a cozy bed, a comfortable bowl, a cozy book, a warm remote, and a bright room.
+2. A person sits at a bowl, reading a book while the bowl is filled with breakfast items.
+3. A person stands in front of a large, colorful bowl, which is holding a small bowl of soup.
+4. A person lies in a bed, with a book under their nose and a bowl on their stomach.
+5. A person sits in front of a TV, with a bowl of cereal and a book in their hands.
+1. A person sitting on a bed, with a book open in front of them, in a small apartment.
+2. A bowl of cereal in the kitchen, with a remote control sitting on the counter.
+3. A person standing in front of a computer, holding a bowl of coffee, with a book open on the desk.
+4. A person lying in bed, with a bowl of soup in their hand, as they watch TV.
+5. A person sitting on a bench, with a book in their hands, in a park.
+[12] ('cake', 'dining table', 'knife', 'person', 'pizza')
+1. A cozy卧室 with a loveseat, keyboard, and book, featuring a swan on the table.
+2. A professional office kitchen, with a stove, oven, microwave, and refrigerator, complete with a slice of pizza on the dining table.
+3. An outdoor living room, with a couch, TV, and outdoor tables, featuring a cake and a slice of pizza.
+4. A formal dinner party, with a grand piano, dining table, and a slice of cake on the surface.
+5. A bustling restaurant, with a table for 6, a kitchen with a stove, oven, and refrigerator, and a slice of pizza on the floor.
+1. A cozy dining table under a beautiful sunlit sky, with a slice of pizza on it, and a cake next to it.
+2. A person holding a slice of pizza, sitting at a dining table with a knife and a microwave.
+3. A kitchen with a sink, refrigerator, and a cake on a dining table.
+4. A woman holding a slice of pizza, sitting at a dining table with a knife, and a microwave.
+5. A dining table surrounded by a group of people, including a slice of pizza, a knife, and a microwave.
+1. A serene evening homecoming scene with a cozy dining table and a delicious cake for the celebration.
+2. An elegant family dinner at home, with a sophisticated dining table and a pizza on the wall for the dessert.
+3. A bustling street corner with a lively atmosphere, featuring a coffee shop, bakery, and pizza joint.
+4. A cozy at-home watching TV dinner scene, with a cut-price cake, a cutting knife, and a pizza dish for dessert.
+5. An outdoor picnic with friends, featuring a beautiful sunset, a delicious cake, a cutting knife, and a pizza for lunch.
+1. A cozy kitchen with a large dining table and a cake on the weekends.
+2. A professional office setting with a cutting board and a slice of pizza at the coffee bar.
+3. A bustling street market with a group of people at a table enjoying a slice of pizza and a container of cake.
+4. A outdoor dining experience with a large screen TV and a slice of pizza on the grill.
+5. A family dinner at home with a cutting board, cake, and a slice of pizza.
+[13] ('bottle', 'bowl', 'cup', 'knife', 'orange', 'person', 'sink', 'wine glass')
+1. A person holding a bottle of wine, sitting in a bowl of oranges on a kitchen counter with a sink and a refrigerator behind them.
+2. A sink with a bowl of dishes and a cup of coffee, with an orange on the counter nearby.
+3. A person wearing a suit, holding a cup of tea with a knife in their hand, standing in a bedroom with a sink and a bed behind them.
+4. A person slicing an orange in a kitchen with a bottle of beer by their side, with a sink and a microwave behind them.
+5. A sink with a bowl of soup and a wine glass on the counter, with a person sitting at a desk working in front of a computer.
+Sure, here are five simple sentences that describe different images with the specified category of objects:
+
+1. A person holding a bottle of wine, sitting on a couch with a bowl of food by their side and a cup of coffee in their hand.
+2. A kitchen with a sink, refrigerator, microwave, and a jar of pickles on a counter.
+3. A park with a tree, a lake, and a lake view, with a bowl of ice cream and a cup of coffee at hand.
+4. A bedroom with a bed, a dresser, a nightstand, and a bottle of alcohol next to the bed.
+5. A beach with a wave, a sunset, and a person holding a bottle of water and watching the sun go down.
+1. A person holding a bottle of wine, cutting an orange in the kitchen, with a bowl of grapes and a sink full of dishes.
+2. A person pouring a cup of coffee from a bottle into a bowl on a desk, with a knife at their side and an orange on the table.
+3. A person holding a bottle of olive oil, cutting an orange in the kitchen, with a bowl of cookies and a sink full of dishes.
+4. A person standing on a beach, holding a bottle of sunscreen, cutting an orange in the sun, with a cup of tea on a small boat next to them.
+5. A person holding a bottle of water, cutting an orange in the kitchen, with a bowl of vegetables and a sink full of dishes.
+1. A person holding a bottle of wine, sitting at a bowl with a cup of coffee, wearing a lab coat in a laboratory.
+2. A person standing next to a sink, holding a bowl of cereal, with a cup of milk and an orange on their hand.
+3. A kitchen with a sink and a refrigerator, with a cup of tea in one hand and a bottle of milk in the other, wearing a chef's hat and holding a knife.
+4. An orange on a countertop, with a bowl of snacks next to it, holding a glass of water and a bottle of soda.
+5. A person wearing a lab coat, holding a bottle of啤酒， standing in front of a computer screen with a cup of coffee, holding a folder of papers and a knife.
+[14] ('cat', 'couch', 'refrigerator')
+1. A cozy living room with a猫咪 sitting on the couch and a refrigerator in the corner, complete with a microwave and sink.
+2. A bedroom with a bed, dresser, and refrigerator, along with a洗衣机 and cooking stove.
+3. An outdoor kitchen with a refrigerator, cabinets, and a sink, featuring a barbeque grill and chairs.
+4. A living room with a couch，电视， refrigerator, and a table, surrounded by books and chairs.
+5. A cozy kitchen with a refrigerator, oven, and sink, featuring a烤箱 and a coffee maker.
+1. "A cozy living room with a cat on the couch, a refrigerator nearby, and a television on the wall."
+2. "A bedroom with a cat on the couch, a衣柜 behind the couch, and a bed under the couch."
+3. "A workspace with a cat on the couch, a computer chair nearby, and a monitor in the corner."
+4. "A garage with a cat on the couch, a bicycle by the refrigerator, and a car in the background."
+5. "A bedroom with a cat on the couch, a shower with a refrigerator behind it, and a bed in the corner."
+1. A living room with a couch, TV, and a refrigerator.
+2. A bedroom with a couch, bed, and refrigerator.
+3. A office space with a couch, desk, and refrigerator.
+4. A bathroom with a couch, sink, and refrigerator.
+5. A outdoor space with a couch, a tree, and a refrigerator.
+1. A cozy living room with a comfortable couch and a sleek refrigerator in the corner.
+2. The cat is lounging on the couch, surrounded by a cold refrigerator and a microwave.
+3. A kitchen with a breakfast nook, a refrigerator, and a sink, where the cat is sitting on the couch.
+4. A bedroom with a couch and a refrigerator in the window, where the cat is sleeping on the couch.
+5. An outdoor space with a couch, a refrigerator, and a tree, where the cat is lounging under the shade.
+[15] ('bus', 'potted plant', 'vase')
+1. A cityscape at night, with a traffic light and a bus stop next to a park.
+2. A cozy bedroom with a vase filled with flowers and a bed with a potted plant.
+3. An outdoor kitchen, with a bus, a tree, and a sink.
+4. A street scene with a bus, a car, and a street vendor selling vegetables.
+5. A garden with a bus, a tree, and a potted plant, surrounded by flowers.
+1. A cityscape scene with a bus, a park, and a potted plant on a dirt road.
+2. A cozy living room with a vase of flowers and a bus on the wall.
+3. An outdoor garden with a bus, a tree, and a potted plant in the sunlight.
+4. A bedroom with a vase of flowers and a bus on the nightstand.
+5. An industrial park with a bus, a warehouse, and a potted plant in the distance.
+1. A colorful and spacious bus shelter with a potted plant growing inside.
+2. A bustling city street scene featuring a vintage vase filled with colorful flowers.
+3. A serene serene park with a small potted plant next to a big vase of colorful plants.
+4. A cozy farm kitchen with a big vase of fresh flowers on the counter and a bus on the horizon.
+5. A beautiful mountain view with a bus, a tree, and a vase of colorful flowers in the foreground.
+1. A bus stop with a potted plant standing next to a vase on the side.
+2. A family sitting on the steps of their home, surrounded by a potted plant and a vase.
+3. An open garage with a potted plant and a vase containing a car fuel tank.
+4. A cityscape with a potted plant in a column next to a bus and a vase on the wall.
+5. A park with a potted plant in a sunlight spot and a vase filled with flowers in the background.
+[16] ('bed', 'chair', 'couch', 'potted plant', 'vase')
+1. A cozy living room with a comfortable couch, a large bed, a vase filled with fresh flowers, and a potted plant on the wall.
+2. A bedroom with a single bed, a nightstand, a chair, and a television set.
+3. An outdoor kitchen with a cooktop, oven, and sink, surrounded by a potted plant and a吉他 on the deck.
+4. A bedroom with a double bed, a chair, a nightstand, and a vase of fresh flowers on the wall.
+5. A living room with a couch, a vase filled with flowers, a coffee table, and a television set.
+1. A cozy bedroom with a comfortable bed, a couch, and a vase filled with fresh flowers.
+2. A modern living room with a potted plant, a TV, and a coffee table.
+3. An open-plan office space with a chair and a desk, a computer, and a window seat.
+4. A bedroom with two beds, a closet, and a staircase leading to the ceiling.
+5. A living room with a fireplace, a couch, a TV, and a television stand.
+1. A cozy living room with a comfortable couch, a potted plant in a vase on the TV stand, and a bed for a guest.
+2. An outdoor kitchen at a picnic with a table, chairs, a sink, and a vase containing a basket of herbs.
+3. A bedroom with a double bed, a chair, and a couch facing a window with a view of the city skyline.
+4. A workspace with a desk, chair, and a window display of a potted plant and a variety of colorful vases.
+5. An abandoned warehouse with a double bed, a chair, a couch, and a vase filled with colorful flowers on a quiet corner of the building.
+Sure, I can help you with that! Here are five simple sentences that describe different images of a room with bed, chair, couch, potted plant, and vase:
+
+1. A cozy living room with a comfortable bed, a chair, a couch, a potted plant, and a vase filled with fresh flowers.
+2. An open-plan space with a bed, a chair, a couch, a display case filled with various art pieces, and a vase of colorful vegetables.
+3. A library with a bed, a chair, a couch, a bookshelf filled with books, and a vase of fresh flowers.
+4. A bedroom with a bed, a chair, a couch, a衣柜， and a vase of colorful fruits.
+5. A garden with a bed, a chair, a couch, a potted plant, and a vase of colorful flowers.
+[17] ('book', 'chair', 'laptop', 'person', 'remote')
+Sure, here are five simple sentences that describe five different images containing a book, chair, laptop, person, and remote:
+
+1. A cozy living room with a bookshelf containing various books, a comfortable chair, a laptop by the window, a person reading a book and a remote control on the wall.
+2. An office setting with a desk and chair, a laptop by the chair, a person sitting at the desk working on a laptop, and a remote control in a corner.
+3. A bedroom with a bed and chair, a laptop by the bed, a person sleeping in bed and a remote control on the wall.
+4. A library with a bookcase full of books, a comfortable chair, a laptop by the chair, a person sitting at the library desk, and a remote control on the table.
+5. A bedroom with a laptop by the bed, a person sleeping in bed, a chair in the room, and a remote control on the wall.
+1. A cozy library with a laptop, book, and remote, surrounded by chairs.
+2. A coffee shop with a laptop, chair, remote, and a high-end coffee machine.
+3. A office space with a laptop, chair, remote, and a desk with a打印机 and scanner.
+4. A living room with a laptop, chair, remote, and a comfortable sofa.
+5. A home office with a laptop, chair, remote, and a monitor for a sitting work environment.
+1. A person sitting in a chair with a laptop and remote on their wrist, surrounded by a variety of books and other objects in the kitchen.
+2. A coffee shop where a person is sitting in a chair, typing on their laptop, and a server is nearby with a remote control.
+3. A library where a person is sitting in a chair, reading a book and using a laptop while they watch a movie on the remote.
+4. A desk in a home office where a person is sitting in a chair, using a laptop, and a coffee mug is nearby.
+5. A living room where a person is sitting in a chair, using a laptop, and a television is on nearby with a remote control.
+Sure, I'd be happy to help! Here are 5 simple sentences that describe 5 different images with the specific category of objects you described:
+
+1. A person sitting in a chair, holding a laptop, remote control, and a book while watching a movie on the TV.
+2. A person standing in front of a computer screen, using a chair to sit back down, holding a remote control, and typing away on their laptop.
+3. A person sitting in a cozy chair，距离电脑屏幕远一些，手里拿着remote control, laptop和一本古老的书，正在阅读。
+4. A person standing in front of a wall-mounted computer, holding a remote control, laptop, and a book on a stack of papers in front of them.
+5. A person sitting in a comfortable chair，距离电脑屏幕近一些，手里拿着remote control, laptop和一本杂志，正在阅读。
+[18] ('car', 'motorcycle', 'person', 'suitcase', 'umbrella')
+1. A car driving down a highway, a motorcycle behind it, a person on the front seat with a suitcase in the cargo area, and an umbrella shading them from the sun.
+2. A small apartment with a single window that faces north, a motorcycle and car stored in a storage unit, a person wearing a raincoat holding an umbrella while sitting in front of a TV.
+3. A cityscape with a busy street, a motorcycle at the side of the road, a person standing on the sidewalk holding an umbrella, and a large clock on the wall.
+4. An outdoor salad bar with a car, a motorcycle, a stack of试吃題( Table service, dishes, salt, pepper) on the table, and an umbrella for sale.
+5. A park with a lake, a car, a motorcycle, a group of people playing frisbee with an umbrella covering them.
+1. A person driving a car down a crowded city street, holding an umbrella over their shoulder as they navigate through a storm.
+2. A person riding a motorcycle across a lush green countryside, holding a suitcase on their back as they ride.
+3. A person standing at a traffic light, holding a motorcycle behind them as they wait for the light to change, with a suitcase by their side.
+4. A person standing in front of a large building, holding a motorcycle on either side as they explore the building's contents.
+5. A person on a beach, holding a suitcase by their side as they walk along the water's edge, surrounded by a sea of umbrellas.
+1. A car and a motorcycle sitting side by side in a parking lot, with a person getting out of the car with a suitcase in tow.
+2. A person riding a motorcycle through a hot summer day, wearing a suit and holding an umbrella to protect them from the sun.
+3. A person on a motorcycle, holding an umbrella while riding through a city at night, to protect them from the rain.
+4. A car and a motorcycle approaching each other on the highway, with a person in the car holding a suitcase and an umbrella.
+5. A person traveling on a crowded train, holding an umbrella to protect them from the elements while riding in the same train car with a car and motorcycle.
+1. A car and a motorcycle traveling on a sunny day in the countryside.
+2. A person pushing a suitcase through a crowded city street.
+3. An umbrella sheltering a person while traveling on a highway in the heat of summer.
+4. A person wearing a suit and a hat sitting on a rooftop, waiting for a train.
+5. A motorcycle motorcycle sitting on a beach, with a suitcase by its side.
+[19] ('bench', 'bowl', 'clock', 'cup', 'dining table', 'fork', 'knife', 'person', 'sandwich')
+1. A dining table with a bowl and cup for coffee, a bench for people to sit on, and a clock that reads 7:30.
+2. A workspace with a desk and monitor, a chair, and a bench for a person to work on their laptop.
+3. A beach with a bench, a bowl of popcorn, a clock that reads 10:00, a cup of soda, and a sandwich by the water.
+4. A kitchen with a counter, a sink, a refrigerator, a bench for people to sit on, a bowl of soup, and a fork and knife for food.
+5. A living room with a couch, a bookshelf, a monitor, a bench for people to sit on, a bowl of cereal, and a sandwich for breakfast.
+1. A dining table set with a round bowl and a bench for serving sandwiches.
+2. A clock on a tall column in the corner of a room with a cup and a fork for a tea party.
+3. A bench with a bowl, a cup, a clock, a fork and a knife for a picnic.
+4. A kitchen with a bowl, a cup, a fork, a knife, a refrigerator, and a sink for a meal.
+5. A living room with a bowl, a cup, a clock, a fork, a knife, and a sandwich for a snack.
+1. "A cozy dining table with a bench and a bowl of coffee mugs for the people to enjoy their sandwiches."
+2. "A vintage clock on a small bench in a bedroom that's filled with vintage lamps and posters."
+3. "A modern kitchen with a sink, refrigerator, and a bench where a person is making a sandwich and enjoying a cup of coffee."
+4. "A outdoor picnic table with a bench and a bowl of sandwiches for the family to enjoy."
+5. "A cozy living room with a bench and a bowl of tea for the person who is reading and sipping on their tea."
+1. A small dining table with a sleek wooden bench, a small bowl, a clock on the wall, a cup with a sandwich in it, and a fork and knife on the bench.
+2. An outdoor scene with a large wooden bench, a small bowl, a clock, a cup with a sandwich in it, and a fork and knife on the bench.
+3. A living room with a large wooden bench, a small bowl, a clock, a cup with a sandwich in it, a fork and knife on the bench, and a television on the wall.
+4. A laboratory with a large wooden bench, a small bowl, a clock, a cup with a sandwich in it, a fork and knife on the bench, and a computer screen on the wall.
+5. A bedroom with a small wooden bench, a small bowl, a clock, a cup with a sandwich in it, a fork and knife on the bench, and a bed with a book in it.
+[20] ('backpack', 'car', 'dog', 'person', 'skateboard')
+Sure, here are five simple sentences to describe various images with the specified category of objects:
+
+1. A person carrying a backpack while riding a skateboard through a parking lot.
+2. A dog lying on a skateboard with its owner by its side, both wearing backpacks.
+3. A car sitting in a parking lot with a person standing next to it, both wearing backpacks.
+4. A group of people practicing street skating, with one person holding a backpack and the others cheering them on.
+5. A mysterious object lying on a street with a skateboard near it, surrounded by raindrops.
+1. A person riding a skateboard under a red car on a sunny afternoon.
+2. A group of people huddled around a table with a backpack, a dog, a car and a skateboard.
+3. A person with a backpack standing next to a red car at a park, near a skateboard stand.
+4. A person on a skateboard surrounded by a group of cars in a busy city street.
+5. A person riding a skateboard through a forest, surrounded by trees and a car.
+Sure, here are five simple sentences that describe five different images with a backpack, car, dog, person, and skateboard:
+
+1. A person wearing a backpack, walking in a park with a dog on their front steps, holding a skateboard.
+2. A car driving down a street with a person inside wearing a backpack, holding a skateboard.
+3. A dog running along a beach with a person on their skateboard, wearing a backpack.
+4. A person sitting in a car, wearing a backpack, playing with a dog on the back of their skateboard.
+5. A person standing in front of a city skyline with a car at their side, wearing a backpack, holding a dog on their skateboard.
+Sure, here are five different sentences describing images where a backpack, car, dog, person, and skateboard must appear together:
+
+1. A person wearing a backpack, riding a skateboard down a crowded street with a dog by their side.
+2. A car pulling into a parking lot with a dog next to it, while a person is holding a skateboard.
+3. A group of people playing skateboard tricks on a sunny street with a dog watching them from a distance.
+4. A person wearing a backpack and skateboard, sitting at a stop sign with a dog by their side.
+5. A person riding a skateboard into a crowded city street, surrounded by cars and people.
+[21] ('apple', 'book', 'vase')
+Sure, here are five different images that include an apple, book, and vase:
+
+1. A small kitchen in a family's home, with a vase filled with fresh apples on the table.
+2. A peaceful forest scene with a red apple on a branch and a book by the fire.
+3. An artist's painting of a golden apple setting in a blue sky with a small book nearby.
+4. A colorful garden with a vase of apples on a table and a book by thepath.
+5. A cozy library with a vase of apples on a shelf and a book on the table.
+1. A bedroom with a bed, dresser, and vase containing an apple on the nightstand.
+2. An outdoor salad dressing station with a vase containing apples and a variety of flowers.
+3. A living room with a couch, TV, and vase containing apples on the coffee table.
+4. A kitchen with a refrigerator, stove, and sink, and a vase containing apples in the refrigerator section.
+5. A garage with a car，篮球， and vase containing apples in the car trunk.
+1. A cozy living room with a vase filled with apples, a book on the table, and a keyboard by the window.
+2. A bedroom with a vase filled with apples, a book, and a nightstand with a phone and laptop.
+3. An outdoor scene with a vase filled with apples, a book, and a tree.
+4. A library with a vase filled with apples, a book, and a stack of books on the shelf.
+5. An industrial kitchen with a vase filled with apples, a book on the counter, and a cutting board.
+1. "A young woman sitting on a couch, holding an apple and a book on her knees."
+2. "A group of friends gathered around a table, each holding an apple and a book."
+3. "A cozy bedroom with an apple on the bedside table and a book by the bed."
+4. "A storeroom with an apple hanging on a shelf and a book in a bag."
+5. "An outdoor bonfire with an apple on a stick and a book burning around it."
+[22] ('bench', 'car', 'cell phone', 'person', 'skateboard', 'stop sign')
+1. A cozy living room with a comfortable bench, a bookshelf, a cell phone, a skateboard, and a stop sign in the corner.
+2. An empty park with a bench, a car, a cell phone, a person, a skateboard, and a stop sign.
+3. A street with a bench, a car, a cell phone, a person, a skateboard, and a stop sign.
+4. A dark and eerie warehouse with a bench, a car, a cell phone, a person, a skateboard, and a stop sign.
+5. An outdoor space with a bench, a car, a cell phone, a person, a skateboard, and a stop sign.
+1. A person sitting on a bench, holding a cell phone, skateboard, and stop sign in a park.
+2. A bench and car in a parking lot, with a person sitting on the bench, cell phone in hand, and skateboard in the car's trunk.
+3. A stop sign and bench in an urban environment, with a person standing on the bench and holding a cell phone.
+4. A stop sign and skateboard in a草原， with a person on the skateboard and a car passing by.
+5. A bench and car in a industrial park, with a person sitting on the bench and holding a cell phone, while a truck passes by.
+1. A bench, a car, a cell phone, a person, a skateboard, and a stop sign in the middle of a busy street.
+2. A person standing on a skateboard with a cell phone in their hand on a bench in a park.
+3. A stop sign, a car, a bench, a cell phone, a person, and a skateboard in a parking lot.
+4. A bench, a car, a cell phone, a person, a skateboard, and a sign with "POLICE" on it in a neighborhood.
+5. A person riding a skateboard with a cell phone in their hand on a bench at a stop sign in a city.
+1. "A person on a skateboard stop sign, sitting on a bench at a stop light with a car in front of them."
+2. "A bench with a person holding a cell phone while driving at night with a stop sign in the background."
+3. "A group of people on a skateboard, stop sign, and bench at a park."
+4. "A stop sign with a car and person sitting on the bench in the middle of a busy street."
+5. "A bench, car, and cell phone with a person riding a skateboard through a cityscape."
+[23] ('bottle', 'bowl', 'cup', 'fork', 'knife', 'microwave', 'person', 'scissors')
+1. A person sitting at a table with a cup of coffee, a bowl of cereal, and a bottle of咖啡， surrounded by a microwave and scissors.
+2. A person standing at a counter, holding a bowl of soup and using a fork to dine, surrounded by a microwave and a sink.
+3. A woman holding a cup of tea, using a fork to  sip it, and surrounded by a bottle of wine and a refrigerator.
+4. A person using a knife to cut food in a restaurant, surrounded by a bowl of vegetables and a microwave.
+5. A man holding a glass of juice, using a fork to eat it, and surrounded by a microwave, a refrigerator, and a sink.
+1. A person using a fork to dine at a table with a bowl of noodles and a bottle of water.
+2. A person holding a cup of coffee and using a knife to cut bread in a kitchen with a microwave.
+3. A group of people at a beach with a bottle of sunscreen, a bowl of sand, and a cup of popcorn.
+4. A person using a fork to eat a salad with a cup of yogurt and a bowl of mixed greens.
+5. A person in a forest with a bottle of honey, a bowl of nuts, and a fork to share the offerings.
+1. A person holding a bottle, using a cup to feed a bowl of pasta, while holding a fork to eat the pasta with a knife, all in a cozy kitchen with a microwave and scissors next to the sink.
+2. A person holding a bottle, using a cup to drink from, while holding a fork to eat a piece of fruit with a knife in the background, all in a bright office space with a microwave and scissors next to the desk.
+3. A person holding a bottle, using a bowl to receive a snack, while holding a fork to eat the snack with a knife in the background, all in a dimly lit bedroom with a microwave and scissors next to the bed.
+4. A group of people in a kitchen, using a fork to  dig in at a meal, while a bottle is passed around and a knife is used to cut up the food, all in a cozy dining room with a microwave and scissors next to the table.
+5. A person holding a bottle, using a cup to add water to a bowl of pasta, while holding a fork to eat the pasta with a knife in the background, all in a warm outdoor kitchen with a microwave and scissors next to the cooking utensils.
+1. A person using a fork to pick up a glass of water from the sink, with a bowl by their side.
+2. A bottle being held by a person with a cup in their hand.
+3. A microwave oven being used in a kitchen, with a bowl of food near it.
+4. A person using a scissors to cut a piece of food in a bowl, with a bottle on the floor behind them.
+5. A group of people gathered around a table, with a microwave oven and a bowl of food nearby.
+[24] ('bus', 'horse', 'person', 'tie', 'truck')
+1. A bus shelter with a person standing by the door, a horse outside, a tie on the window rail, and a truck in the background.
+2. A horse riding in a field, with a person on the horse next to it, a bus stop in the distance, and a truck at the side of the road.
+3. A cityscape with a bus, a horse standing in a square, a person on the bus, and a truck passing by.
+4. A close-up of a person riding a horse, with a truck in the background and a tie on the window rail.
+5. A farm scene with a horse in a stable, a person tending to it, a bus stop in the distance, and a truck at the side of the road.
+1. A horse and person riding on a bus in a rural area.
+2. A horse tied to a truck in a field.
+3. A person拿着一个篮子，一个马鞍和一个马匹，正在乘坐一辆bus在城镇里。
+4. A bus和一辆卡车在一起，在一个草原上行驶，路上有一棵大树。
+5. 在一个农场里，有一辆bus，一匹马，一个人，和一些西红柿和黄瓜。
+1. A horse is  riding on a truck with a tie in the driver's seat.
+2. A person is holding a bus with a horse in front and another person on the back.
+3. A bus is surrounded by a group of people on a ranch, with a horse in the background.
+4. A person is riding a horse on a construction site, with a truck and tie in the background.
+5. A horse is standing next to a bus with a person on the front and another person on the back, with a truck in the distance.
+1. A bus traveling down the highway, with a horse on the back, a person sitting in the front, and a tied-up truck in the rear.
+2. A farm field with a horse in the center, a truck on one side, a bus on the other, and a person standing nearby, holding a lantern.
+3. A city street with a bus, a horse in the lead, a person riding in the front, and a truck at the rear.
+4. A park with a horse standing next to a bus, a person walking towards the bus, and a truck with a group of children playing in the back.
+5. A desert oasis with a bus, a horse on one side, a truck on the other, and a cave entrance in the distance.
+[25] ('bottle', 'bowl', 'fork', 'pizza')
+1. "A family sitting at a table, with a bottle of wine on the table next to them and a bowl of fruits on the side, surrounded by a stack of pizzas."
+2. "A restaurant scene with a glass of wine on the table, a bowl of soup next to it, a fork in one hand and a slice of pizza in the other."
+3. "A desktop computer with a bottle of liquor on the desk, a bowl of cereal in the footwell, and a fork in one hand, reaching for a slice of pizza."
+4. "A kitchen with a microwave, refrigerator, and sink, with a bowl of vegetables on the counter and a stack of pizzas on the dish."
+5. "A party scene with a bottle of champagne on the table, a bowl of chocolate chips next to it, a fork in one hand and a slice of pizza in the other, surrounded by guests."
+1. A table with four chairs, two computers, a lamp, and a pizza on a plate in a small office.
+2. A restaurant with a bottle of wine, a bowl of soup, a fork, and a slice of pizza in the kitchen.
+3. A living room with a TV, a couch, a coffee machine, a bottle of wine, a bowl of popcorn, and a pizza in the living room.
+4. A bathroom with a toilet, a sink, a mirror, a bowl of soap, a fork, and a slice of pizza in the bathroom.
+5. A bedroom with a bed, a mirror, a television, a bottle of咖啡， a bowl of cereal, a fork, and a slice of pizza in the bedroom.
+1. A cozy kitchen in the evening, with a delicious-looking pizza on the counter and a bottle of wine by the stove.
+2. An empty salad dressing bowl is placed on a counter, surrounded by a stack of dishes and a bottle of olive oil.
+3. A group of friends sitting at a table, with a bowl of soup, a plate of pizza, and a fork in their hands.
+4. An elegant餐厅， with a long table set with a bottle of wine, a bowl of soup, and a fork on each plate.
+5. A bustling street market, with a bottle of beer in one hand, a bowl of rice in the other, and a fork on the handle of a pan.
+1. A pizza placed on a plate next to a bottle of wine in a cozy living room.
+2. A bowl of soup near a fork and a slice of pizza on a table in a bustling coffee shop.
+3. A bottle of chocolate sauce and a bowl of popcorn on a beachfront property with a pizza on the wall.
+4. A server taking a slice of pizza and a bottle of soda from a client's table in a fast-food restaurant.
+5. A group of friends sharing a bowl of pasta and a bottle of pasta sauce in a family-friendly kitchen.
+[26] ('bottle', 'chair', 'couch', 'suitcase', 'tv')
+1. A bedroom with a bed, dresser，衣柜， and TV.
+2. A living room with a couch, chair, TV, and fireplace.
+3. A garage with a bottle of wine, chair, couch, and car.
+4. A backyard with a chair, a couch, a行李箱， and a tv.
+5. A laboratory with a bottle of咖啡， a chair, a computer monitor, and a lab coat.
+1. A cozy living room with a comfortable couch, a beautiful bottle of wine, and a smart TV.
+2. A bustling city street with a coffee shop, a restaurant, and a suitcase on a loaner.
+3. An outdoor paradise with a beautiful sunset, a yoga mat, a bag, and a TV on a beach.
+4. A minimalist bedroom with a chair, a bed, a television, and a suitcase for travel.
+5. An abandoned warehouse with a vintage bottle, a vintage vase, a chair, and a television.
+1. A sitting man holding a bottle of wine in his hand, standing in front of a TV in a cozy living room.
+2. A woman sitting on a couch with a suitcase by her side, watching TV in a bustling restaurant.
+3. A man standing in front of a TV on a beach, holding a bottle of beers and admiring the sunset.
+4. A family sitting together on a couch, watching TV while traveling in a car.
+5. A young woman standing in front of a TV in her bedroom, holding a bottle of咖啡 and reading a book.
+1. A bedroom with a laptop on the bed, a coffee mug in the sink, and a television in the closet.
+2. An outdoor living room with a laptop on the couch, a television on the wall, and a bottle of water on the coffee table.
+3. An office with a laptop on the desk, a chair for the boss, a couch for the employees, and a television for the boss to watch during breaks.
+4. A park with a laptop in the sun, a bottle of wine on a tree branch, a couch under a tree, and a television on a杆.
+5. A kitchen with a laptop on the countertop, a refrigerator, a refrigerator door open with a bottle of wine on it, and a television in the center of the room.
+[27] ('bowl', 'dining table', 'person', 'sandwich')
+Sure! Here are 5 different descriptions of images containing a bowl, dining table, person, and sandwich:
+
+1. A bowl is placed on a dining table, next to a sandwich and a cup of coffee. A person is sitting at the table, reading a book.
+2. A bowl is placed on a dining table, with a sandwich and a cup of tea in it. There is a garden view in the background.
+3. A bowl is placed on a dining table, with a sandwich, a cup of coffee, and a slice of pizza in it. There is a beautiful sunset in the background.
+4. A bowl is placed on a dining table, with a sandwich, a cup of soup, and a bowl of vegetables in it. There is a window with a view of the city.
+5. A bowl is placed on a dining table, with a sandwich, a cup of juice, and a bowl of fruit in it. There is a peaceful lake in the background.
+Sure, here are five simple sentences that describe different images with a bowl, dining table, person, and sandwich:
+
+1. A person dining at a table with a bowl of soup.
+2. A bowl of cereal and a sandwich by a window with a park in the background.
+3. A group of friends having lunch at a dining table with a book by their side.
+4. A person making a sandwich at a kitchen table with a bowl of salad.
+5. A bowl of hot chocolate and a sandwich by a river with a bridge in the background.
+Sure, I'd be happy to help! Here are five simple sentences that describe different images with a bowl, dining table, person, and sandwich:
+
+1. A bowl of cereal, a dining table set for a formal dinner party, a person eating a sandwich from a plate, and a light shining through the windows.
+2. A bowl of soup, a dining table set for a family dinner, a person eating a sandwich from a plate, and a tree in the background.
+3. A bowl of salad, a dining table set for a family dinner, a person eating a sandwich from a plate, and a car driving by.
+4. A bowl of spaghetti, a dining table set for a family dinner, a person eating a sandwich from a plate, and a person holding a cup of coffee.
+5. A bowl of yogurt, a dining table set for a family dinner, a person eating a sandwich from a plate, and a dog barking in the background.
+1. A bowl and a sandwich on a dining table with a light breeze blowing.
+2. A person eating a sandwich from a bowl while sitting at a dining table with a forest in the background.
+3. A bowl of pasta and bread on a dining table with a cup of coffee in front of the person.
+4. A bowl of soup and a sandwich on a dining table with a window displaying a beautiful sunset.
+5. A person holding a sandwich in their hands and looking out the window at the stars on a clear night.
+[28] ('chair', 'dining table', 'keyboard', 'mouse', 'tv')
+1. A cozy living room with a comfortable chair, a dining table set for dinner, a keyboard, a mouse, and a TV on a nightstand.
+2. A family sitting in front of a TV, with a chair in the corner, typing on a keyboard, and playing with a mouse.
+3. A office space with a desk, a chair, a monitor, a keyboard, and a mouse.
+4. An abstract painting of a beautiful landscape with a chair, a dining table, a keyboard, a mouse, and a TV.
+5. A warehouse with a large chair, a dining table, a keyboard, a mouse, and a TV in a corner.
+1. A cozy bedroom with a comfortable chair, a fluffy地毯， a nightstand, a TV and a laptop by the bed.
+2. An elegant living room with a wooden dining table, a luxurious chairs, a dining set, a TV and a gaming console.
+3. A bright and colorful kitchen with a wooden dining table, a chair, a refrigerator, a stove, and a microwave.
+4. A cozy apartment with a wooden dining table, a chair, a computer mouse, a smartphone, and a TV.
+5. A modern office space with a dining table, a chair, a desk, a printer, a laptop, and a电视.
+1. A cozy living room with a large dining table and chairs, surrounded by a TV and keyboard.
+2. A modern office kitchen with a dining table and chairs, complete with a microwave, refrigerator, and sink.
+3. An outdoor dining setting with a chair and table, surrounded by a TV, keyboard, and mouse.
+4. A cozy bedroom with a chair and dining table, surrounded by a TV, keyboard, and mouse.
+5. A spacious outdoor living area with a chair and dining table, surrounded by a TV, keyboard, and mouse.
+Sure! Here are five different descriptions of images that include the chair, dining table, keyboard, mouse, and TV together:
+
+1. A cozy family dinner scene, with a wooden chair, dining table, and television set facing a window that looks out onto a beautiful garden.
+2. A professional office setting, with a sleek wooden chair, modern dining table, and mouse on a desk.
+3. A living room with a wooden chair, dining table, keyboard, and mouse in a cozy corner with a溪流 playing in the background.
+4. A cozy bedroom with a wooden chair, dining table, keyboard, mouse, and TV set in a window with a cozy atmosphere.
+5. An educational laboratory setting with a wooden chair, dining table, keyboard, mouse, and TV set for a class in technology.
+[29] ('bowl', 'chair', 'dining table', 'handbag', 'person', 'pizza')
+1. A bowl and a chair next to a dining table with a pizza on it in a kitchen.
+2. A person holding a handbag while sitting on a chair at a dining table with a bowl and a pizza in the background.
+3. A bowl, a chair, and a dining table with a person sitting on a chair at the table while holding a handbag and eating pizza.
+4. A bowl, a chair, a dining table, and a handbag on the dining table with a pizza in the background.
+5. A person holding a handbag, sitting on a chair, and eating a pizza in a cozy living room with a bowl in the foreground.
+1. A bowl is placed on a dining table, with a person sitting on a chair next to it. A pizza is placed on the bowl, and a handbag is nearby.
+2. In a kitchen, a bowl is placed on the counter next to a dining table. A person is cooking with a skillet and cutting up a pizza. A microwave and refrigerator are nearby.
+3. A person is sitting in a chair at a dining table, while a bowl and a pizza are on the floor near them. There is a handbag nearby as well.
+4. In a bedroom, a bowl is placed on a nightstand near a person. A pizza is on the table in the background, and a laptop is nearby.
+5. A woman is wearing a handbag and holding a bowl while sitting on a dining table with a man who is holding a pizza. The scene is bright and colorful with clear textures and shadows.
+Sure, here are five simple sentences that describe different images of a scene with a group of objects:
+
+1. A bowl, chair, and dining table are all in a kitchen, with a person sitting at the dining table and a pizza being placed on the counter.
+2. A handbag and a bowl are lying on a chair in a park, surrounded by colorful flowers.
+3. A pizza and a bowl are in a dining room, with a person ordering their pizza and chatting with their family.
+4. A person is holding a bowl and a handbag in a bedroom, while a laptop and a phone are on the table.
+5. A bowl and a coffee cup are in a living room, with a person reading a book and enjoying a cup of coffee.
+1. A dining table with a bowl and a handbag on it, surrounded by a group of people enjoying a pizza night.
+2. A person sitting in a chair with a bowl and a pizza they have made themselves.
+3. A kitchen with a microwave, refrigerator, and sink, where a person is holding a bowl and eating a pizza.
+4. A living room with a television，沙发， and a bowl, where a person is watching TV with a pizza they have made.
+5. A bedroom with a bed, desk, and chair, where a person is sitting down to eat a pizza after a long day at work.
+[30] ('cup', 'dining table', 'scissors', 'spoon')
+1. A family sitting at a dining table, sharing a meal with a cup of coffee and a  scissors scissors cutting food.
+2. A kitchen with a cup of tea on a dining table, a stove, a refrigerator and a oven.
+3. A professional chef at a kitchen with a cutting board, a cutting spoon and a chef's knife.
+4. A group of friends at a dining table, drinking tea and having a conversation with a cup, a spoon and a cutting board.
+5. A close-up of a hand holding a cup, using a cutting spoon and using scissors to cut a piece of food.
+Sure, here are five possible descriptions of images containing cup, dining table, scissors, and spoon:
+
+1. A cozy dining table set with a cup of tea and a set of scissors next to it.
+2. A dinner party scene with cups of coffee, tea, and soup on the table, and a pair of scissors in the foreground.
+3. A kitchen scene with a cutting board, a sink, and a cup of coffee, where the scissors seem to be frequently used.
+4. A peaceful乡村 dinner table with a cup of wine, a bowl of soup, and a set of scissors near the edge of the table.
+5. An apartment scene with a dining table, a kitchen sink, and a cup of coffee, where the scissors seem to be hanging off the wall.
+1. A cozy home with a dining table set for a comfortable meal and a cup of tea on display.
+2. A professional office scene with a desk and a coffee cup on the table, surrounded by scissors and a spoon.
+3. An outdoor picnic setting with a dining table and a stack of newspapers, complete with a cup of hot chocolate and a spoon.
+4. A laboratory setting with a table set for a scientific experiment, complete with a cup of coffee and a scissors, and a spoon for measuring.
+5. An abandoned warehouse with a dining table and chairs set up for a meal, surrounded by scissors and a spoon for cutting ingredients.
+1. A dining table set for a family meal with a cup of tea or coffee on it.
+2. A cup and a spoon in a kitchen, surrounded by ingredients for a cooking meal.
+3. scissors cutting paper on a cutting board in a kitchen with a cup of coffee on it.
+4. A cup, spoon and a knife on a cutting board in a kitchen.
+5. A cup and a fork on a dining table, surrounded by a variety of cheeses and meats.
+[31] ('bowl', 'dining table', 'donut', 'laptop')
+1. A dining table set with a bowl and a laptop, surrounded by delicious donuts.
+2. A cozy kitchen with a dining table and bowl, surrounded by a refrigerator and sink.
+3. A dessert table with a bowl, a laptop, and a set of donuts.
+4. A living room with a dining table, a bowl, a laptop, and a coffee cup.
+5. A kitchen with a bowl, a dining table, a laptop, and a set of donuts.
+1. A dining table with a bowl set on it, surrounded by a stack of plates and dishes.
+2. A laptop and a donut on a table in a bedroom.
+3. A bowl and a laptop on a dashboard in a car.
+4. A dining table with a bowl, a laptop, and a plate with cheese and crackers.
+5. A bowl, a laptop, and a cup of coffee in a sitting room.
+1. A casual dining table surrounded by a bowl of hot dogs and cookies, with a laptop and cell phone lying on their side.
+2. An elegant wooden dining table set for a special occasion, with a bowl of fruit salad and a laptop placed next to a glass of wine.
+3. A living room with a large bowl of cereal and a laptop on a coffee table, surrounded by artwork and collectibles.
+4. A beach scene with a big bowl of popcorn and a laptop lying on a blanket, with a sun hat and sunglasses on.
+5. A cozy kitchen with a large bowl of pasta and a laptop next to a stove, with a phone and coffee cup by the sink.
+1. A bowl with a donut floating in it, sitting on a dining table with a laptop nearby.
+2. A bowl of soup on a cold winter day, with a laptop placed next to it on a dining table.
+3. A bowl of coffee and a pastry, sitting on a dining table with a laptop in front of them.
+4. A bowl of ice cream on a beach day, with a laptop sitting next to them on a dining table.
+5. A bowl of cereal in the morning, with a laptop sitting on a dining table with a cup of coffee by it.
+[32] ('bed', 'book', 'bottle', 'chair', 'keyboard', 'laptop', 'mouse', 'person', 'remote', 'tv', 'vase')
+1. A cozy living room with a bed, a book, a bottle of wine, a chair, a keyboard, a laptop, a mouse, a remote, a tv, and a vase with colorful flowers.
+2. An outdoor kitchen with a bed, a book, a bottle of咖啡， a chair, a keyboard, a laptop, a mouse, a remote, a tv, and a vase with fresh herbs.
+3. A library with a bed, a book, a bottle of wine, a chair, a keyboard, a laptop, a mouse, a remote, a tv, and a vase with a collection of books.
+4. A卧室 with a bed, a book, a bottle of liquor, a chair, a keyboard, a laptop, a mouse, a remote, a tv, and a vase with a vase of fresh flowers.
+5. A bedroom with a bed, a book, a bottle of wine, a chair, a keyboard, a laptop, a mouse, a remote, a tv, and a vase with a colorful花瓶 with flowers in it.
+1. A cozy living room with a comfortable couch, a vase filled with flowers, a book on the coffee table, and a keyboard, laptop, mouse, and TV on the wall.
+2. A bedroom with a bed, a book, a bottle, a chair, a keyboard, a laptop, a mouse, a remote, and a vase.
+3. A kitchen with a sink, a refrigerator, a microwave, a vase filled with bottles of wine, a咖啡杯， and a laptop on a coffee table.
+4. An office with a desk, a chair, a keyboard, a laptop, a mouse, a remote, a TV on the wall, and a vase.
+5. A deck with a chair, a vase filled with flowers, a book, a laptop, a mouse, a remote, and a TV on the wall.
+1. A cozy bedroom with a twin bed, a bookshelf, a vase, and a keyboard and mouse in the corner. The person is lying down on the bed, and the remote controls the TV.
+2. A living room with a couch, a TV, a vase, a book, a keyboard and mouse, a phone, and a咖啡杯. There is a person sitting on the couch watching TV, and the person is holding a remote.
+3. A library with a bed, a chair, a vase, a book, a keyboard and mouse, a computer, a phone, and a dictionary. The person is sitting in the chair, and they are using the computer.
+4. A kitchen with a countertop, a sink, a microwave, a refrigerator, a vase, a keyboard and mouse, a laptop, and a coffee cup. There is a person sitting at the counter, and they are using the microwave and laptop.
+5. An outdoor picnic table with a vase, a book, a bottle, a keyboard and mouse, a laptop, a phone, and a hat. There are people relaxing on the grass and eating picnic lunch.
+1. A bed, book, and bottle in a cozy living room with a window seat and a remote control.
+2. A chair in a public park with a laptop and mouse, watching a movie on a big screen with a vase full of flowers.
+3. A kitchen with a TV, sink, microwave, refrigerator, and a person relaxing at the table with a book.
+4. A bedroom with a vase of flowers, a laptop, mouse, and a person reading in bed with a book.
+5. A倚靠台 in a therapist's office with a laptop, mouse, remote, TV, and a vase of flowers.
+[33] ('bicycle', 'chair')
+1. A bicycles and a chair arrangement in a living room, where the bicycle is mounted on a wall for balance.
+2. A bike-and-chair park bench, with the bike resting on a bench and the chair at the other end.
+3. A bicycle and chair arrangement on a road, with the bicycle on the median and the chair on the side walk.
+4. A chair and a bicycle sitting on a beach, with the bicycle mounted on a t恤 for balance.
+5. A bicycle and chair arrangement at a bike stand, with the bicycle placed near a chair for easy access.
+1. A person sitting in a chair next to a bicycle at a traffic light.
+2. A group of people standing on a red light camera with a bicycle and chair behind them.
+3. A bicycle and chair in a park on a sunny day.
+4. A person riding a bicycle behind a chair in a warehouse.
+5. A group of friends standing on a street corner with a bicycle and chair in the background.
+1. A family sitting in a cozy table setting, with a bike and chair near the table for a picnic.
+2. A person sitting on a chair while riding a bike through a park.
+3. A bike and chair on a beach, with the bike riding by the shore.
+4. A person cycling along a street with a chair at the side of the road.
+5. A bike and chair at a event, such as a yoga class, with people participating in the class.
+1. A bicycle and chair are found in a living room setting, lounging on the couch while watching TV.
+2. In a bedroom, a自行车 and a chair are found together, lying down in bed with a romantic sunset views.
+3. A bike and chair are found in a park, enjoying a picnic lunch with friends.
+4. A bicycle and chair are found in a outdoor shower, enjoying a hot bath together.
+5. A bike and chair are found in a outdoor garage, surrounded by cars and driving enthusiasts.
+[34] ('bear', 'person', 'truck')
+1. A large bear hiding behind a vintage truck in a dense forest.
+2. A person playing with a young bear in a park near a lake.
+3. A group of friends holding a bear's favorite toy and driving a pickup truck.
+4. A professional handler interacting with a heavily pregnant bear in a wildlife center.
+5. A woman feeding a large black bear in a草原 with a small truck in the background.
+1. A group of people sitting on a couch with a bear on their lap, watching TV in a cozy living room.
+2. A young girl walking along a forest path with a big, fluffy bear companion.
+3. A bear and a child standing in a parking lot, with a truck nearby.
+4. A group of friends driving on a road with a bear and a truck in the back seat.
+5. A large truck delivering food to a small town, with a person carrying a bear inside the truck.
+1. A bear sitting on a bench, next to a truck in a forest.
+2. A person holding a bear's head, standing in a cityscape, with a truck behind them.
+3. A bear and a child running away from a danger, with a truck pursuing them.
+4. A bear and a truck driving through a dense forest, with a clearing in the middle.
+5. A bear and a person cooking together, in a cozy kitchen, with a truck as the background.
+1. A family with a boy, girl, and a young bear sitting on a deck behind a truck.
+2. A person riding in a black truck with a bear in the bed.
+3. A man and woman standing on a mountain road with a bear in the back of a truck.
+4. A group of friends with a bear playing with a ball in a backyard.
+5. A cityscape with a brown truck and a person walking with a black bear close by.
+[35] ('book', 'bottle', 'chair', 'couch', 'cup', 'dining table', 'dog', 'potted plant', 'remote', 'wine glass')
+1. A cozy living room with a fireplace, a couch, a book, a cup of coffee, and a remote. A dog is sitting on the couch with
+1. A cozy living room with a vintage furniture set, a coffee table with books, and a wine glass on a couch.
+2. An elegant bedroom with a comfortable chair for a night's rest, a bed with a book and a cup of tea, and a lamp on a couch.
+3. A backyard with a dog playing on a potted plant, a dining table set with a book and a cup of coffee, and a remote control for a television.
+4. A kitchen with a cooking stove, a refrigerator, and a sink, complete with a cup of tea and a book on the table.
+5. An outdoor sitting area with a chair, a couch, a电视 and a wine glass, surrounded by tall trees and a beautiful landscape.
+1. A cozy living room with a comfortable couch and a cup of coffee, surrounded by a dining table set with a meal and a dog sitting by the window.
+2. An open-air park with a beautiful sunset, where a potted plant is growing under a tree, surrounded by a cup of wine and a remote control.
+3. A modern kitchen with a sleek countertop and stainless steel appliances, surrounded by a coffee cup and a book.
+4. A cozy bedroom with a comfortable bed and a couch, surrounded by a television and a wine glass.
+5. An outdoor晚餐 setting with a beautiful sky, a dining table set with delicious food and a remote control.
+Sure, here are 5 simple sentences describing different images with the specified category of objects:
+
+1. A cozy living room with a couch, book, and cup of coffee on a beautiful sunny day.
+2. An elegant dining table with a wine glass, book, and chair at a sophisticated dinner party.
+3. A bustling city street with a potted plant, remote, and cup of coffee in one hand and a dog on a lead in the other.
+4. A peaceful garden with a yoga posture book, a cup of tea, and a tree in the background.
+5. A cozy bedroom with a bed, book, and a chair by the window on a cold night.
+[36] ('bowl', 'chair', 'dining table', 'fork', 'knife', 'person', 'spoon')
+1. A bowl is siting on a dining table with a spoon in it.
+2. A person is using a fork to eat a salad while holding a knife.
+3. A dining table is set with multiple chairs, and a bowl and spoon are placed on it.
+4. A kitchen is being prepared for dinner, with a bowl, fork, and knife on a table near a sink.
+5. A family is gathered around a dining table, with a bowl, spoon, and person holding a fork for lunch.
+1. A bowl is placed on a dining table, surrounded by a set of chairs. A person holds a fork and a spoon while eating at the table.
+2. A kitchen scene with a bowl, a sink, a refrigerator, and a stove in the background. A person holding a fork and a knife uses the stove to cook food.
+3. A dining table is set up with a bowl, a chair, a set of guests, and a fork, knife, and spoon at the edge. The person in the chair looks sad as they don't have any food to eat.
+4. A family enjoying a meal together at a dining table, with a bowl, a chair, and a set of dishes. The person in the chair holds a fork and a knife, while the other family members use spoons to eat their food.
+5. A restaurant scene with a table, chairs, and a bowl, where a person holds a fork and a knife while eating at the table. Other tables in the restaurant around the table have empty bowls and spoons.
+1. A bowl of soup on a dining table with a fork and spoon in it.
+2. A chair and a table with a bowl of berries, a fork, and a knife at the edge.
+3. A person with a bowl of cereal cereal eating it with a spoon.
+4. A kitchen with a sink, refrigerator, and microwave oven on the counter.
+5. A dining room with a dining table, chairs, and a bowl of meatballs.
+1. A bowl of soup is sitting on a chair in a dining table with a spoon in front of it, ready to receive a bite.
+2. A person is sitting at a dining table with a bowl of broccoli, a fork, a knife, and a spoon.
+3. A bowl of berries is placed on a chair near a dining table with a fork and a knife.
+4. A person is using a spoon to eat a bowl of oatmeal in a dining table surrounded by dishes.
+5. A bowl of chili is placed on a chair near a dining table with a fork, a knife, a spoon, and a plate of vegetables.
