@@ -3,7 +3,7 @@
 This is the **third-place solution** for the Language-Enhanced Image New Category Discovery at the 2nd [The Guangdong–Hong Kong–Macao Greater Bay Area](https://www.dsec.gov.mo/BayArea/) International Algorithm and Programming Contest (**Visual Prompt Tuning Challenge @ CVPR 2023 HIT Workshop (2023)**). 
 
 The team members include 
-[Jiawei Wang](http://home.ustc.edu.cn/~wangjiawei/about), Zhihang Liu, Zuan Gao, Boqiang Zhang, and Yichun Feng. 
+[Jiawei Wang](http://home.ustc.edu.cn/~wangjiawei/about.html), Zhihang Liu, Zuan Gao, Boqiang Zhang, and Yichun Feng. 
 
 The solution slides can be found in [`Final-defense-slides.pptx`](./Final-defense-slides.pptx).
 
