@@ -2,6 +2,7 @@
 
 这是第二届粤港澳大湾区国际算法算例大赛基于语言增强的图像新类别发现第三名的解决方案。
 队伍成员包括[Jiawei Wang](http://home.ustc.edu.cn/~wangjiawei/about), [Zhihang Liu](), [Zuan Gao](), [Boqiang Zhang](), [Yichun Feng]().
+方案Slides请见[`Final-defense-slides.pptx`](./Final-defense-slides.pptx).
 
 
 ## 误差
