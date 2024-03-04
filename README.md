@@ -1,10 +1,15 @@
 # 代码说明
+这是第二届粤港澳大湾区国际算法算例大赛基于语言增强的图像新类别发现第三名的解决方案。
+队伍成员包括[Jiawei Wang](http://home.ustc.edu.cn/~wangjiawei/about), [Zhihang Liu](), [Zuan Gao](), [Boqiang Zhang](), [Yichun Feng]().
+
+
 ## 误差
 本地环境：A40 GPU服务器。考虑到本地采用DDP多卡训练与服务器单卡训练不同，数据采样，以及环境不同等原因可能存在±0.2的最终精度误差。
 
 ## 预测性能
-预计训练耗时: 40~50h
-预计推理耗时: 10~12h
+预计训练耗时: 40\~50h
+
+预计推理耗时: 10\~12h
 
 ## 环境配置
 基础环境pytorch:1.11.0-cuda11.3-cudnn8，详见DockerFile。
